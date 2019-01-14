@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##the tuto is available on
+
+https://serverless-stack.com/chapters/create-a-new-reactjs-app.html
+
+- I only deal with frontend side, backend side is AWS
+
 ## Available Scripts
 
 In the project directory, you can run:
